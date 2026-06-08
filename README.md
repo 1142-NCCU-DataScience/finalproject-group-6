@@ -1,11 +1,17 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xfVbwuLD)
-# [GroupID] your project title
+# [Group 6] 從位置到多元球風：現代 NBA 球員角色分析
+<img width="1482" height="150" alt="image" src="https://github.com/user-attachments/assets/aacc76cd-79ea-4a02-89a9-546718a522ac" />
+
 The goals of this project.
 
 ## Contributors
 |組員|系級|學號|工作分配|
 |-|-|-|-|
 |何大南|資科碩二|xxxxxxxxx|團隊中的吉祥物🦒，負責增進團隊氣氛| 
+|張小明|資科碩二|xxxxxxxxx|團隊的中流砥柱，一個人打十個|
+|張小明|資科碩二|xxxxxxxxx|團隊的中流砥柱，一個人打十個|
+|張小明|資科碩二|xxxxxxxxx|團隊的中流砥柱，一個人打十個|
+|張小明|資科碩二|xxxxxxxxx|團隊的中流砥柱，一個人打十個|
 |張小明|資科碩二|xxxxxxxxx|團隊的中流砥柱，一個人打十個|
 
 ## Quick start
