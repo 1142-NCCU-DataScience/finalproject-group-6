@@ -2,26 +2,43 @@
 # [Group 6] 從位置到多元球風：現代 NBA 球員角色分析
 <img width="1482" height="150" alt="image" src="https://github.com/user-attachments/assets/aacc76cd-79ea-4a02-89a9-546718a522ac" />
 
-The goals of this project.
+The goals of this project is to analyze the transformation of modern nba player comparing with history data.
+
+## Demo video and link
+
+[youtube demo](https://youtu.be/sVdunvIftJI)
+[our project link](https://bear7066.shinyapps.io/nba-clustering/)
 
 ## Contributors
+
 |組員|系級|學號|工作分配|
 |-|-|-|-|
 |何大南|資科碩二|xxxxxxxxx|團隊中的吉祥物🦒，負責增進團隊氣氛| 
 |張小明|資科碩二|xxxxxxxxx|團隊的中流砥柱，一個人打十個|
-|張小明|資科碩二|xxxxxxxxx|團隊的中流砥柱，一個人打十個|
-|張小明|資科碩二|xxxxxxxxx|團隊的中流砥柱，一個人打十個|
-|張小明|資科碩二|xxxxxxxxx|團隊的中流砥柱，一個人打十個|
-|張小明|資科碩二|xxxxxxxxx|團隊的中流砥柱，一個人打十個|
+|王冠智|資科碩ㄧ|115753205|負責 web frontend, visualization, github management|
+|||||
+|||||
+|||||
 
 ## Quick start
-Please provide an example command or a few commands to reproduce your analysis, such as the following R script:
-```R
-Rscript code/your_script.R --input data/training --output results/performance.tsv
-```
+###Set up
+
+0. Go into code directory first.
+
+1. Installation
+
+```Rscript -e "install.packages(c('shiny','bslib','tidyverse','plotly','DT','bsicons'), repos='https://cloud.r-project.org')"```
+
+2. Execute main app
+
+```Rscript -e "shiny::runApp('c.R', host='127.0.0.1', port=3838, launch.browser=FALSE)"```
+
+3. Kill the port
+
+```lsof -tiTCP:3838 -sTCP:LISTEN | xargs kill```
 
 ## Folder organization and its related description
-idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Projects.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424) PLoS Comput Biol 5(7): e1000424.
+This idea is emerged by our discussion during rest time of the class.
 
 ### docs
 * Your presentation, 1142_DS-FP_groupID.ppt/pptx/pdf (i.e.,1142_DS-FP_group1.ppt), by **06.09**
