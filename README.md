@@ -13,7 +13,7 @@ The goals of this project is to analyze the transformation of modern nba player 
 
 |組員|系級|學號|工作分配|
 |-|-|-|-|
-|何大南|資科碩二|xxxxxxxxx|團隊中的吉祥物🦒，負責增進團隊氣氛| 
+|何大南|資科碩一|114753109|負責analyze and group data| 
 |張小明|資科碩二|xxxxxxxxx|團隊的中流砥柱，一個人打十個|
 |王冠智|資科碩ㄧ|115753205|負責 web frontend, visualization, github management|
 |黃思璇|資科碩一|114753204|負責 Data Collection, Data Filtering, Data Preprocessing, Presentation Development|
